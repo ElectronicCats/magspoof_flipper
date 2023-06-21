@@ -1,8 +1,8 @@
 #pragma once
 
-#define MAG_VERSION_APP "0.05"
-#define MAG_DEVELOPER "Zachary Weiss"
-#define MAG_GITHUB "github.com/zacharyweiss/magspoof_flipper"
+#define MAG_VERSION_APP "1.0"
+#define MAG_DEVELOPER "Electronic Cats"
+#define MAG_GITHUB "github.com/electroniccats/magspoof_flipper"
 
 typedef enum {
     MagViewSubmenu,

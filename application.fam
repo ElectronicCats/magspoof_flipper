@@ -16,8 +16,8 @@ App(
     fap_icon="icons/mag_10px.png",
     fap_category="Tools",
     fap_icon_assets="icons",
-    fap_version=(0, 5),  # major, minor
-    fap_description="WIP MagSpoof port using the RFID subsystem",
-    fap_author="Zachary Weiss",
-    fap_weburl="https://github.com/zacharyweiss/magspoof_flipper",
+    fap_version=(1, 0),  # major, minor
+    fap_description="MagSpoof port for Flipper",
+    fap_author="Electronic Cats",
+    fap_weburl="https://github.com/electroniccats/magspoof_flipper",
 )
