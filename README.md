@@ -5,7 +5,7 @@ Basic TX of saved files confirmed working against an MSR90 with an external H-br
 
 ## Hardware
 
-This firmware is optimized to work with the [BackPack Magspoof by Electronic Cats](https://www.electroniccats.com) that has a driver and an external coil for optimal reproduction of the tracks, based on our past projects such as: Magspoof, Magspoof V3 and Magspoof V4.
+This firmware is optimized to work with the [Flipper Addon Magspoof by Electronic Cats]([https://www.electroniccats.com](https://electroniccats.com/store/flipper-add-on-magspoof/)) that has a driver and an external coil for optimal reproduction of the tracks, based on our past projects such as: Magspoof, Magspoof V3 and Magspoof V4.
 
 ## Optional Hardware
 
